@@ -1,10 +1,10 @@
-## to read (in order of next read)
+## to read (in order of next to read)
 - Refactoring: Improving the Design of Existing Code (2nd Ed.)
 - Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
+- Evolutionary Architecture
 - The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever
 - Start With Why: How Great Leaders Inspire Everyone To Take Action
 - Hooked: How to Build Habit-Forming Products
-- INSPIRED: How to Create Tech Products Customers Love
 
 ## reading now (last update: 05/01/2019)
 - Adaptive Code: Agile coding with design patterns and SOLID principles (Developer Best Practices)
@@ -12,18 +12,20 @@
 - Human Knowledge: Its Scope and Limits (Routledge Classics)
 - Sobre héroes y tumbas (Spanish Edition)
 
-## read (in order of last read, going back to around 2012)
+## read (in order of last read, going back to around 2012, not including university reading)
 - Extreme Programming Explained: Embrace Change (XP Series)
 - Radical Candor: How to Get What You Want by Saying What You Mean
 - Software Testing 2020: Preparing for New Roles
+- The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't
+- INSPIRED: How to Create Tech Products Customers Love
 - Peopleware
 - You Don't Know JS
 - Powerful: Building a Culture of Freedom and Responsibility
 - The moon is a harsh mistress
-- The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't
 - Rocket Surgery made Easy (Steve Krug)
 - About Face (Alan Cooper)
 - Radical Focus
+- Leadership and the One Minute Manager (The One Minute Manager)
 - Impact Mapping: Making a big impact with software products and projects
 - The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity (2nd Edition)
 - Lean UX
@@ -31,9 +33,12 @@
 - Scrum: A revolutionary approach to building teams, beating deadlines and boosting productivity
 - Software Estimation: Demystifying the Black Art (Developer Best Practices)
 - Biocentrism: How Life and Consciousness are the Keys to Understanding the True Nature of the Universe
+- An Introduction to Cognitive Linguistics
 - El tunel (Spanish Edition)
+- Siddartha
 - Hamlet
 - At The Existentialist Café: Freedom, Being, and Apricot Cocktails
+- Existentialism and Humanism
 - Telling Lies: Clues to Deceit in the Marketplace, Politics, and Marriage (Revised Edition)
 - Emotions Revealed: Understanding Faces and Feelings
 - Everyday Sexism
@@ -41,6 +46,7 @@
 - The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy
 - Faust
 - Onze minutos (Portuguese Edition)
+- The Alchemist (Portuguese Edition)
 - What Money Can't Buy: The Moral Limits of Markets
 - The Zombie Survival Guide: Complete Protection from the Living Dead
 - Ender's Game: Ender Series

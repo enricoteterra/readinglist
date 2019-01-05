@@ -13,6 +13,8 @@
 - Sobre héroes y tumbas (Spanish Edition)
 
 ## read (in order of last read, going back to around 2012, not including university reading)
+forgot to list many hardcopies i don't own anymore, a more or less complete list:
+
 - Extreme Programming Explained: Embrace Change (XP Series)
 - Radical Candor: How to Get What You Want by Saying What You Mean
 - Software Testing 2020: Preparing for New Roles

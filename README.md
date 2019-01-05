@@ -13,8 +13,6 @@
 - Sobre héroes y tumbas (Spanish Edition)
 
 ## read (in order of last read, going back to around 2012, not including university reading)
-forgot to list many hardcopies i don't own anymore, a more or less complete list:
-
 - Extreme Programming Explained: Embrace Change (XP Series)
 - Radical Candor: How to Get What You Want by Saying What You Mean
 - Software Testing 2020: Preparing for New Roles
@@ -36,6 +34,7 @@ forgot to list many hardcopies i don't own anymore, a more or less complete list
 - Software Estimation: Demystifying the Black Art (Developer Best Practices)
 - Biocentrism: How Life and Consciousness are the Keys to Understanding the True Nature of the Universe
 - An Introduction to Cognitive Linguistics
+- The Stranger (Spanish Edition)
 - El tunel (Spanish Edition)
 - Siddartha
 - Hamlet
@@ -61,7 +60,11 @@ forgot to list many hardcopies i don't own anymore, a more or less complete list
 - The mythical man moth
 - Clean code
 - The Invisible Man
+- The Time Machine
 - Don't Make Me Think: A Common Sense Approach to Web Usability (Voices That Matter)
 - What I Believe (Tariq Ramadan)
 - An Inquiry into the Nature and Causes of the Wealth of Nations
-
+- On Intelligence
+- The selfish Gene
+- The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design
+- 

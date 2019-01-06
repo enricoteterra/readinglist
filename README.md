@@ -12,7 +12,7 @@
 - Human Knowledge: Its Scope and Limits (Routledge Classics)
 - Sobre héroes y tumbas (Spanish Edition)
 
-## read (in order of last read, going back to around 2012, not including university reading)
+## work-relateds books read (in order of last read)
 - Extreme Programming Explained: Embrace Change (XP Series)
 - Radical Candor: How to Get What You Want by Saying What You Mean
 - Software Testing 2020: Preparing for New Roles
@@ -21,7 +21,6 @@
 - Peopleware
 - You Don't Know JS
 - Powerful: Building a Culture of Freedom and Responsibility
-- The moon is a harsh mistress
 - Rocket Surgery made Easy (Steve Krug)
 - About Face (Alan Cooper)
 - Radical Focus
@@ -32,39 +31,43 @@
 - The Oz Principle: Getting Results Through Individual and Organizational Accountability
 - Scrum: A revolutionary approach to building teams, beating deadlines and boosting productivity
 - Software Estimation: Demystifying the Black Art (Developer Best Practices)
-- Biocentrism: How Life and Consciousness are the Keys to Understanding the True Nature of the Universe
-- An Introduction to Cognitive Linguistics
-- The Stranger (Spanish Edition)
-- El tunel (Spanish Edition)
-- Siddartha
-- Hamlet
-- At The Existentialist Café: Freedom, Being, and Apricot Cocktails
-- Existentialism and Humanism
 - Telling Lies: Clues to Deceit in the Marketplace, Politics, and Marriage (Revised Edition)
 - Emotions Revealed: Understanding Faces and Feelings
 - Everyday Sexism
-- Without You, There Is No Us: My secret life teaching the sons of North Korea’s elite
 - The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy
-- Faust
-- Onze minutos (Portuguese Edition)
-- The Alchemist (Portuguese Edition)
-- What Money Can't Buy: The Moral Limits of Markets
-- The Zombie Survival Guide: Complete Protection from the Living Dead
-- Ender's Game: Ender Series
-- Superfreakonomics: Global Cooling, Patriotic Prostitutes and Why Suicide Bombers Should Buy Life Insurance
-- Freakonomics: A Rogue Economist Explores the Hidden Side of Everything
 - The Founder's Dilemmas: Anticipating and Avoiding the Pitfalls That Can Sink a Startup
-- The Island of Dr. Moreau (Signet Classics)
-- The Art of Happiness: A Handbook for Living
 - The Design of Everyday Things (Don Norman)
 - The mythical man moth
 - Clean code
-- The Invisible Man
-- The Time Machine
 - Don't Make Me Think: A Common Sense Approach to Web Usability (Voices That Matter)
+
+## philosophy/science/political (in order of last read)
+- An Introduction to Cognitive Linguistics
+- Biocentrism: How Life and Consciousness are the Keys to Understanding the True Nature of the Universe
+- At The Existentialist Café: Freedom, Being, and Apricot Cocktails
+- Existentialism and Humanism
+- Without You, There Is No Us: My secret life teaching the sons of North Korea’s elite
+- What Money Can't Buy: The Moral Limits of Markets
+- Superfreakonomics: Global Cooling, Patriotic Prostitutes and Why Suicide Bombers Should Buy Life Insurance
+- Freakonomics: A Rogue Economist Explores the Hidden Side of Everything
+- The Art of Happiness: A Handbook for Living
 - What I Believe (Tariq Ramadan)
 - An Inquiry into the Nature and Causes of the Wealth of Nations
 - On Intelligence
 - The selfish Gene
 - The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design
-- 
+
+## fiction (in order of last read)
+- The moon is a harsh mistress
+- The Stranger (Spanish Edition)
+- El tunel (Spanish Edition)
+- Siddartha
+- Hamlet
+- Faust
+- Onze minutos (Portuguese Edition)
+- The Alchemist (Portuguese Edition)
+- The Zombie Survival Guide: Complete Protection from the Living Dead
+- Ender's Game: Ender Series
+- The Island of Dr. Moreau (Signet Classics)
+- The Invisible Man
+- The Time Machine

@@ -1,4 +1,4 @@
-## to read (in order of next to read)
+## reading next
 - Refactoring: Improving the Design of Existing Code (2nd Ed.)
 - Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
 - Evolutionary Architecture

@@ -1,17 +1,20 @@
 ## reading next
-- Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
-- Evolutionary Architecture
+- The Lean Startup
+- Hooked: How to Build Habit-Forming Products
 - The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever
 - Start With Why: How Great Leaders Inspire Everyone To Take Action
-- Hooked: How to Build Habit-Forming Products
 
-## reading now (last update: 08/01/2019)
-- Refactoring: Improving the Design of Existing Code (2nd Ed.)
+## reading now (last update: 11/03/2019)
+- Domain-driven Design  (Eric Evans)
+- The Computer after Me - Self Awareness in Autonomic Systems
+- Product Leadership
 - Surfaces and Essences: Analogy as the Fuel and Fire of Thinking
-- Human Knowledge: Its Scope and Limits (Routledge Classics)
+- Human Knowledge: Its Scope and Limits
 - Sobre héroes y tumbas (Spanish Edition)
 
-## work-relateds books read (in order of last read)
+## work-related books (in order of last read)
+- Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
+- Refactoring: Improving the Design of Existing Code (2nd Ed.)
 - Adaptive Code: Agile coding with design patterns and SOLID principles (Developer Best Practices)
 - Extreme Programming Explained: Embrace Change (XP Series)
 - Radical Candor: How to Get What You Want by Saying What You Mean

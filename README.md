@@ -1,18 +1,8 @@
-## reading next
-- The Lean Startup
-- Hooked: How to Build Habit-Forming Products
-- The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever
-- Start With Why: How Great Leaders Inspire Everyone To Take Action
-
-## reading now (last update: 11/03/2019)
+## work books
+- Getting to yes
+- Analysis Patterns (M Fowler)
+- Domain Modeling made Functional
 - Domain-driven Design  (Eric Evans)
-- The Computer after Me - Self Awareness in Autonomic Systems
-- Product Leadership
-- Surfaces and Essences: Analogy as the Fuel and Fire of Thinking
-- Human Knowledge: Its Scope and Limits
-- Sobre héroes y tumbas (Spanish Edition)
-
-## work-related books (in order of last read)
 - Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
 - Refactoring: Improving the Design of Existing Code (2nd Ed.)
 - Adaptive Code: Agile coding with design patterns and SOLID principles (Developer Best Practices)
@@ -44,7 +34,8 @@
 - Clean code
 - Don't Make Me Think: A Common Sense Approach to Web Usability (Voices That Matter)
 
-## philosophy/science/political (in order of last read)
+## philosophy/science/political
+- The Computer after Me - Self Awareness in Autonomic Systems
 - An Introduction to Cognitive Linguistics
 - Biocentrism: How Life and Consciousness are the Keys to Understanding the True Nature of the Universe
 - At The Existentialist Café: Freedom, Being, and Apricot Cocktails
@@ -60,7 +51,7 @@
 - The selfish Gene
 - The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design
 
-## fiction (in order of last read)
+## fiction
 - The moon is a harsh mistress
 - The Stranger (Spanish Edition)
 - El tunel (Spanish Edition)

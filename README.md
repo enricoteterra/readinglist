@@ -1,4 +1,8 @@
 ## work books
+- Thinking in systems
+- Patterns, principles and practices of domain driven design
+- EDGE, Value driven digital transformation
+- Clean architecture
 - Getting to yes
 - Analysis Patterns (M Fowler)
 - Domain Modeling made Functional
@@ -35,6 +39,8 @@
 - Don't Make Me Think: A Common Sense Approach to Web Usability (Voices That Matter)
 
 ## philosophy/science/political
+- Homo deus, a brief history of tomorrow
+- Talking to my daughter, a brief history of capitalism - Yanis Varoufakis
 - The Computer after Me - Self Awareness in Autonomic Systems
 - An Introduction to Cognitive Linguistics
 - Biocentrism: How Life and Consciousness are the Keys to Understanding the True Nature of the Universe

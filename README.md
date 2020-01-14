@@ -1,4 +1,9 @@
 ## work books
+- Infrastructure as code
+- The unicorn project
+- The phoenix project
+- don't just do something, stand there!
+- Talking with tech leads
 - Thinking in systems
 - Patterns, principles and practices of domain driven design
 - EDGE, Value driven digital transformation

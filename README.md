@@ -9,13 +9,13 @@
 - EDGE, Value driven digital transformation
 - Clean architecture
 - Getting to yes
-- Analysis Patterns (M Fowler)
+- Analysis Patterns
 - Domain Modeling made Functional
-- Domain-driven Design  (Eric Evans)
+- Domain-driven Design  
 - Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
-- Refactoring: Improving the Design of Existing Code (2nd Ed.)
-- Adaptive Code: Agile coding with design patterns and SOLID principles (Developer Best Practices)
-- Extreme Programming Explained: Embrace Change (XP Series)
+- Refactoring: Improving the Design of Existing Code 
+- Adaptive Code: Agile coding with design patterns and SOLID principles
+- Extreme Programming Explained: Embrace Change
 - Radical Candor: How to Get What You Want by Saying What You Mean
 - Software Testing 2020: Preparing for New Roles
 - The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't
@@ -28,12 +28,12 @@
 - Radical Focus
 - Leadership and the One Minute Manager
 - Impact Mapping: Making a big impact with software products and projects
-- The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity (2nd Edition)
+- The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity 
 - Lean UX
 - The Oz Principle: Getting Results Through Individual and Organizational Accountability
 - Scrum: A revolutionary approach to building teams, beating deadlines and boosting productivity
-- Software Estimation: Demystifying the Black Art (Developer Best Practices)
-- Telling Lies: Clues to Deceit in the Marketplace, Politics, and Marriage (Revised Edition)
+- Software Estimation: Demystifying the Black Art 
+- Telling Lies: Clues to Deceit in the Marketplace, Politics, and Marriage 
 - Emotions Revealed: Understanding Faces and Feelings
 - Everyday Sexism
 - The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy

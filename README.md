@@ -1,5 +1,6 @@
-## work books
-- Infrastructure as code
+## work books read
+- building microservices
+- infrastructure as code
 - The unicorn project
 - The phoenix project
 - don't just do something, stand there!
@@ -23,10 +24,10 @@
 - Peopleware
 - You Don't Know JS
 - Powerful: Building a Culture of Freedom and Responsibility
-- Rocket Surgery made Easy (Steve Krug)
-- About Face (Alan Cooper)
+- Rocket Surgery made Easy
+- About Face
 - Radical Focus
-- Leadership and the One Minute Manager (The One Minute Manager)
+- Leadership and the One Minute Manager
 - Impact Mapping: Making a big impact with software products and projects
 - The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity (2nd Edition)
 - Lean UX
@@ -38,10 +39,10 @@
 - Everyday Sexism
 - The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy
 - The Founder's Dilemmas: Anticipating and Avoiding the Pitfalls That Can Sink a Startup
-- The Design of Everyday Things (Don Norman)
+- The Design of Everyday Things
 - The mythical man moth
 - Clean code
-- Don't Make Me Think: A Common Sense Approach to Web Usability (Voices That Matter)
+- Don't Make Me Think: A Common Sense Approach to Web Usability
 
 ## philosophy/science/political
 - Homo deus, a brief history of tomorrow
@@ -61,18 +62,3 @@
 - On Intelligence
 - The selfish Gene
 - The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design
-
-## fiction
-- The moon is a harsh mistress
-- The Stranger (Spanish Edition)
-- El tunel (Spanish Edition)
-- Siddartha
-- Hamlet
-- Faust
-- Onze minutos (Portuguese Edition)
-- The Alchemist (Portuguese Edition)
-- The Zombie Survival Guide: Complete Protection from the Living Dead
-- Ender's Game: Ender Series
-- The Island of Dr. Moreau (Signet Classics)
-- The Invisible Man
-- The Time Machine

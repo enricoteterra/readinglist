@@ -1,5 +1,7 @@
-- building microservices
-- infrastructure as code
+- Making reliable distributed systems in the presence of software errors (armstrong)
+- drive, what motivates us (pink)
+- building microservices (newman)
+- infrastructure as code (morris)
 - The unicorn project
 - The phoenix project
 - don't just do something, stand there!

@@ -1,3 +1,4 @@
+2020
 - a pattern language (alexander)
 - making reliable distributed systems in the presence of software errors (armstrong)
 - drive, what motivates us (pink)
@@ -7,6 +8,8 @@
 - the phoenix project (kim)
 - don't just do something, stand there! (janoff)
 - talking with tech leads (kua)
+
+2019
 - thinking in systems (meadows)
 - patterns, principles and practices of domain driven design
 - EDGE, Value driven digital transformation
@@ -14,7 +17,9 @@
 - getting to yes
 - Analysis Patterns
 - Domain Modeling made Functional
-- Domain-driven Design  
+- Domain-driven Design
+
+2018
 - Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
 - Refactoring: Improving the Design of Existing Code 
 - Adaptive Code: Agile coding with design patterns and SOLID principles
@@ -33,6 +38,8 @@
 - Impact Mapping: Making a big impact with software products and projects
 - The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity 
 - Lean UX
+
+2017 and earlier
 - The Oz Principle: Getting Results Through Individual and Organizational Accountability
 - Scrum: A revolutionary approach to building teams, beating deadlines and boosting productivity
 - Software Estimation: Demystifying the Black Art 

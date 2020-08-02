@@ -1,16 +1,17 @@
-- Making reliable distributed systems in the presence of software errors (armstrong)
+- a pattern language (alexander)
+- making reliable distributed systems in the presence of software errors (armstrong)
 - drive, what motivates us (pink)
 - building microservices (newman)
 - infrastructure as code (morris)
-- The unicorn project
-- The phoenix project
-- don't just do something, stand there!
-- Talking with tech leads
-- Thinking in systems
-- Patterns, principles and practices of domain driven design
+- the unicorn project (kim)
+- the phoenix project (kim)
+- don't just do something, stand there! (janoff)
+- talking with tech leads (kua)
+- thinking in systems (meadows)
+- patterns, principles and practices of domain driven design
 - EDGE, Value driven digital transformation
-- Clean architecture
-- Getting to yes
+- clean architecture
+- getting to yes
 - Analysis Patterns
 - Domain Modeling made Functional
 - Domain-driven Design  

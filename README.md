@@ -1,4 +1,5 @@
 2020
+- Object-oriented programming: Some history, and challenges for the next fifty years (black)
 - a pattern language (alexander)
 - making reliable distributed systems in the presence of software errors (armstrong)
 - drive, what motivates us (pink)

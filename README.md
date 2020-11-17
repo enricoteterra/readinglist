@@ -44,7 +44,6 @@
 - The Oz Principle: Getting Results Through Individual and Organizational Accountability
 - Scrum: A revolutionary approach to building teams, beating deadlines and boosting productivity
 - Software Estimation: Demystifying the Black Art 
-- Telling Lies: Clues to Deceit in the Marketplace, Politics, and Marriage 
 - Emotions Revealed: Understanding Faces and Feelings
 - Everyday Sexism
 - The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy

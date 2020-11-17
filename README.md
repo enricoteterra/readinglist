@@ -1,5 +1,7 @@
 2020
 - object-oriented programming: some history, and challenges for the next fifty years (black)
+- exit racism (ogette)
+- rebels at work (kelly)
 - a pattern language (alexander)
 - making reliable distributed systems in the presence of software errors (armstrong)
 - drive, what motivates us (pink)

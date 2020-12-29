@@ -1,4 +1,5 @@
 2020
+- the pragmatic engineer versus the scientific designer (dijkstra)
 - object-oriented programming: some history, and challenges for the next fifty years (black)
 - exit racism (ogette)
 - rebels at work (kelly)

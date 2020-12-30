@@ -1,4 +1,5 @@
 2020
+- The Emperor’s Old Clothes (hoare)
 - the pragmatic engineer versus the scientific designer (dijkstra)
 - object-oriented programming: some history, and challenges for the next fifty years (black)
 - exit racism (ogette)

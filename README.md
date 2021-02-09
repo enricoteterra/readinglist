@@ -1,3 +1,6 @@
+2021
+- Retrospectives Anti-patterns (corry)
+
 2020
 - The Emperor’s Old Clothes (hoare)
 - the pragmatic engineer versus the scientific designer (dijkstra)

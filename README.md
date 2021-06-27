@@ -1,8 +1,18 @@
 2021
-- Retrospectives Anti-patterns (corry)
+- monolith to microservices (newman)
+- no rules rules (hastings & meyer)
+- the rails 5 way (fernandez)
+- practical object orientated design (metz)
+- design patterns in ruby (olsen)
+- eloquent ruby (olsen)
+- coders at work (seibel)
+- staff engineer (larson)
+- enterprise integration patterns (hohpe)
+- software design for flexibility (hanson)
+- retrospectives anti-patterns (corry)
 
 2020
-- The Emperor’s Old Clothes (hoare)
+- the emperor’s old clothes (hoare)
 - the pragmatic engineer versus the scientific designer (dijkstra)
 - object-oriented programming: some history, and challenges for the next fifty years (black)
 - exit racism (ogette)
@@ -47,7 +57,7 @@
 - The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity 
 - Lean UX
 
-2017 and earlier
+pre 2018
 - The Oz Principle: Getting Results Through Individual and Organizational Accountability
 - Scrum: A revolutionary approach to building teams, beating deadlines and boosting productivity
 - Software Estimation: Demystifying the Black Art 

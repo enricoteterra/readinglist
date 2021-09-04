@@ -1,4 +1,5 @@
 2021
+- fifty quick ideas to improve your userstories (adzic)
 - monolith to microservices (newman)
 - no rules rules (hastings & meyer)
 - the rails 5 way (fernandez)
@@ -57,7 +58,7 @@
 - The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity 
 - Lean UX
 
-pre 2018
+earlier
 - The Oz Principle: Getting Results Through Individual and Organizational Accountability
 - Scrum: A revolutionary approach to building teams, beating deadlines and boosting productivity
 - Software Estimation: Demystifying the Black Art 

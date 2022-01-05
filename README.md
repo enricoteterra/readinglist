@@ -1,3 +1,6 @@
+2022
+- working effectively with unit tests (jay fields)
+
 2021
 - fifty quick ideas to improve your userstories (adzic)
 - monolith to microservices (newman)
